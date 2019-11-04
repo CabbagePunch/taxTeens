@@ -1,6 +1,9 @@
+
 # taxTeens
 
 TaxTeens is a chatbot for the GroupMe messaging service. When asked a tax-related question, it will respond with relevent information and links geared towards young workers who may be doing their taxes for the first time.
+
+For edutainment purposes only :-)
 
 ## Installation
 
